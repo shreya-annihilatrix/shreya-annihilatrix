@@ -1,16 +1,33 @@
 ## Hi there 👋
 
-<!--
-**shreya-annihilatrix/shreya-annihilatrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Shreya, a passionate full-stack developer from NIT Jamshedpur 🚀  
+Currently exploring the exciting world of web development with modern tools and frameworks.
 
-Here are some ideas to get you started:
+### 🚧 What I'm working on:
+- Building cool web applications using **React**, **Node.js**, **Express**, and **TypeScript**
+- Diving deeper into **API design**, **backend architectures**, and **performance optimization**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently learning:
+- Advanced **TypeScript** patterns
+- **System design** and scalable web architectures
+- Exploring **DevOps** and cloud deployment tools
+
+### 🤝 Looking to collaborate on:
+- Innovative full-stack web projects
+- Open-source contributions related to React, Node.js, or TypeScript
+
+### 💬 Ask me about:
+- Frontend development with React
+- Building REST APIs with Express
+- TypeScript tips and best practices
+
+### 📫 How to reach me:
+- Drop me a message on [LinkedIn](https://www.linkedin.com/)
+- Or shoot an email to: `your.email@example.com`
+
+### ⚡ Fun fact:
+When I'm not coding, I love diving into tech documentaries and strategy games 🎮
+
+---
+
+> “First, solve the problem. Then, write the code.” – John Johnson
